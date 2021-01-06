@@ -107,3 +107,52 @@ footer p{
 .project-area h3{
     padding: 52px 0px;
 }
+.inquiry  {
+    width: 100%;
+    height: auto;
+    float: left;
+    height: 300px;
+    
+}
+.inquiry .outside{
+    border: solid 4PX #00ffffc5;  
+    justify-content: center;
+    width: 50%;
+    height: 80%;
+    margin-top: 120px ;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    background-image: url(images/Group_33094_1.png);
+    background-size: cover;
+    border-radius:33px;
+    margin-bottom: 40px;
+    box-shadow:5px 5px 30px dimgray;
+    
+    
+}
+.inquiry .inside{
+    
+    position: relative;
+    float: right;
+    margin-top: 11%;
+    right: 140px;
+    
+
+}
+.inquiry div h1{
+    display: inline-block;
+    margin: 8%;
+    margin-left: 3%;
+    color: white;
+
+}
+.inquiry .inside a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    background-image: linear-gradient(to right, red, orange);
+    padding: 15px 30px;
+    border-radius: 10px;
+    
+}
